@@ -1,6 +1,8 @@
 ﻿#include "pch.h"
 #include <iostream>
 #include <objbase.h>
+#include "LAba1.h"
+
 void trace(const char*msg)
 {
 	std::cout << msg << std::endl;
@@ -15,6 +17,7 @@ interface IX :IUnknown
 interface IY :IUnknown
 {
 	virtual void __stdcall Fy() = 0;
+	virtual void __stdcall FF() = 0;
 };
 
 // GUID
@@ -29,6 +32,7 @@ class CA : public IX, public IY
 	virtual ULONG __stdcall Release() { return 0; }
 	virtual void __stdcall Fx() { std::cout << "Hi, from FX" << std::endl; };
 	virtual void __stdcall Fy() { std::cout << "Hi, from FY" << std::endl; };
+	virtual void __stdcall FF() { std::cout << "Hi, from FF" << std::endl; };
 };
 
 HRESULT __stdcall CA::QueryInterface(const IID& iid, void ** ppv)
@@ -82,16 +86,25 @@ static const IID IID_IY =
 int main()
 {
 
-	HRESULT hr;
+	HRESULT hr,hh;
 	trace("Get a pointer to Iunknown");
 	IUnknown* pIUnknown = CreateInstance();
 	trace("Get a pointer to IX");
 	IX* pIX = NULL;
+	IY* pIY = NULL;
+	trace("Get a pointer to IY");
 	hr = pIUnknown->QueryInterface(IID_IX, (void**)&pIX);
+	hh = pIUnknown->QueryInterface(IID_IY, (void**)&pIY);
 	if (SUCCEEDED(hr))
 	{
 		trace("IX gotcha successfully!");
 		pIX->Fx();
+	}
+	if (SUCCEEDED(hh))
+	{
+		trace("IY gotcha successfully!");
+		pIY->Fy();
+		pIY->FF();
 	}
 
 	std::cout << "Press any key" << std::endl;
