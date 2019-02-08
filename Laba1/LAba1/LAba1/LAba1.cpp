@@ -8,18 +8,6 @@ void trace(const char*msg)
 	std::cout << msg << std::endl;
 }
 
-//Intarfaces
-interface IX :IUnknown
-{
-	virtual void __stdcall Fx() = 0;
-};
-
-interface IY :IUnknown
-{
-	virtual void __stdcall Fy() = 0;
-	virtual void __stdcall FF() = 0;
-};
-
 // GUID
 extern const IID IID_IX;
 extern const IID IID_IY;
