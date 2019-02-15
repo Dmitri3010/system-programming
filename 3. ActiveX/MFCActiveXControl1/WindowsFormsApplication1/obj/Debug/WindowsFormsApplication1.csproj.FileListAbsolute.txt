@@ -1,0 +1,30 @@
+D:\Учеба\3 курс\Системное программирование\LR3\MFCActiveXControl1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Учеба\3 курс\Системное программирование\LR3\MFCActiveXControl1\WindowsFormsApplication1\obj\Debug\Interop.MFCActiveXControl1Lib.dll
+D:\Учеба\3 курс\Системное программирование\LR3\MFCActiveXControl1\WindowsFormsApplication1\obj\Debug\AxInterop.MFCActiveXControl1Lib.dll
+D:\Учеба\3 курс\Системное программирование\LR3\MFCActiveXControl1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+D:\Учеба\3 курс\Системное программирование\LR3\MFCActiveXControl1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Учеба\3 курс\Системное программирование\LR3\MFCActiveXControl1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Учеба\3 курс\Системное программирование\LR3\MFCActiveXControl1\WindowsFormsApplication1\bin\Debug\Interop.MFCActiveXControl1Lib.dll
+D:\Учеба\3 курс\Системное программирование\LR3\MFCActiveXControl1\WindowsFormsApplication1\bin\Debug\AxInterop.MFCActiveXControl1Lib.dll
+D:\Учеба\3 курс\Системное программирование\LR3\MFCActiveXControl1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Учеба\3 курс\Системное программирование\LR3\MFCActiveXControl1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Учеба\3 курс\Системное программирование\LR3\MFCActiveXControl1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Учеба\3 курс\Системное программирование\LR3\MFCActiveXControl1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Учеба\3 курс\Системное программирование\LR3\MFCActiveXControl1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Учеба\3 курс\Системное программирование\LR3\MFCActiveXControl1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Studies\6 semester\Операционные системы и системное программирование\Лабораторные\ос-экз\Семестр\3. ActiveX\MFCActiveXControl1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Studies\6 semester\Операционные системы и системное программирование\Лабораторные\ос-экз\Семестр\3. ActiveX\MFCActiveXControl1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\Studies\6 semester\Операционные системы и системное программирование\Лабораторные\ос-экз\Семестр\3. ActiveX\MFCActiveXControl1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Studies\6 semester\Операционные системы и системное программирование\Лабораторные\ос-экз\Семестр\3. ActiveX\MFCActiveXControl1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Studies\6 semester\Операционные системы и системное программирование\Лабораторные\ос-экз\Семестр\3. ActiveX\MFCActiveXControl1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Studies\6 semester\Операционные системы и системное программирование\Лабораторные\ос-экз\Семестр\3. ActiveX\MFCActiveXControl1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+E:\Studies\6 semester\Операционные системы и системное программирование\Лабораторные\ос-экз\Семестр\3. ActiveX\MFCActiveXControl1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Studies\6 semester\Операционные системы и системное программирование\Лабораторные\ос-экз\Семестр\3. ActiveX\MFCActiveXControl1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\study\6 sem\OS\Семестр\3. ActiveX\MFCActiveXControl1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\study\6 sem\OS\Семестр\3. ActiveX\MFCActiveXControl1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+D:\study\6 sem\OS\Семестр\3. ActiveX\MFCActiveXControl1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\study\6 sem\OS\Семестр\3. ActiveX\MFCActiveXControl1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\study\6 sem\OS\Семестр\3. ActiveX\MFCActiveXControl1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\study\6 sem\OS\Семестр\3. ActiveX\MFCActiveXControl1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\study\6 sem\OS\Семестр\3. ActiveX\MFCActiveXControl1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\study\6 sem\OS\Семестр\3. ActiveX\MFCActiveXControl1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

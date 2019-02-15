@@ -1,0 +1,54 @@
+// MFCActiveXControl1.idl: источник библиотеки типов для проекта элементов управления ActiveX.
+
+// Этот файл будет обработан компилятором MIDL для
+// создания библиотеки типов (MFCActiveXControl1.tlb), которая станет ресурсом в
+// MFCActiveXControl1.ocx.
+
+#include <olectl.h>
+#include <idispids.h>
+#define DISPID_TEST_METHOD (1025314)
+
+[ uuid(0804CFE8-DB55-42FC-8882-169886F4468A), version(1.0),
+  control ]
+library MFCActiveXControl1Lib
+{
+	importlib(STDOLE_TLB);
+
+	//  Первичный интерфейс диспетчеризации для CMFCActiveXControl1Ctrl
+	[ 
+		uuid(6046BDAF-7F4E-44FF-95CB-0AB332FBD206)	
+	]
+	dispinterface _DMFCActiveXControl1
+	{
+		properties:
+		methods:
+
+			[id(DISPID_ABOUTBOX)] void AboutBox();
+			[id(DISPID_TEST_METHOD)] LONG TestMyMethod(LONG param1,LONG param2, BSTR param3);
+	};
+
+	//  Интерфейс отправки событий для CMFCActiveXControl1Ctrl
+
+	[ 
+		uuid(9EDEA2EE-C23E-4BB4-9CDA-59043C09C945)	
+	]
+	dispinterface _DMFCActiveXControl1Events
+	{
+		properties:
+			//  Интерфейс событий не имеет свойств
+
+		methods:
+			[id(1)] void EventHandlerTest(BSTR name, BSTR surname, LONG age);
+	};
+
+	//  Информация о классе для CMFCActiveXControl1Ctrl
+	[
+		uuid(D41DA606-3F8D-4D4A-85D5-C70FD5DEC0FF)
+	]
+	coclass MFCActiveXControl1
+	{
+		[default] dispinterface _DMFCActiveXControl1;
+		[default, source] dispinterface _DMFCActiveXControl1Events;
+	};
+
+};

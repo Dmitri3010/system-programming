@@ -1,0 +1,55 @@
+// ActiveXCPP2.idl: источник библиотеки типов для проекта элементов управления ActiveX.
+
+// Этот файл будет обработан компилятором MIDL для
+// создания библиотеки типов (ActiveXCPP2.tlb), которая станет ресурсом в
+// ActiveXCPP2.ocx.
+
+#include <olectl.h>
+#include <idispids.h>
+#define DISPID_TEST_METHOD (1025314)
+
+[uuid(3D07B8FF-9F7F-44B7-9B28-FC8C59C1D80F), version(1.0),
+control]
+library ActiveXCPP2Lib
+{
+	importlib(STDOLE_TLB);
+
+	//  Primary dispatch interface for CActiveXCPP2Ctrl
+	[
+		uuid(0B1F9D80-0811-4B3D-A091-F33D0E3786FC)
+	]
+	dispinterface _DActiveXCPP2
+	{
+	properties:
+	methods:
+
+		[id(DISPID_ABOUTBOX)] void AboutBox();
+		[id(DISPID_TEST_METHOD)] LONG TestMyMethod(LONG param1,
+			LONG param2, BSTR param3);
+
+	};
+
+	//  Event dispatch interface for CActiveXCPP2Ctrl
+
+	[
+		uuid(421B2096-8D11-4871-AD81-5873DB312BBA)
+	]
+	dispinterface _DActiveXCPP2Events
+	{
+	properties:
+		//  Event interface has no properties
+
+	methods:
+		[id(1)] void EventHandlerTest(BSTR name, BSTR surname, LONG age);
+	};
+
+	//  Class information for CActiveXCPP2Ctrl
+	[
+		uuid(79956383-66F5-4671-90B9-6207C9893B9F)
+	]
+	coclass ActiveXCPP2
+	{
+		[default] dispinterface _DActiveXCPP2;
+		[default, source] dispinterface _DActiveXCPP2Events;
+	};
+};
