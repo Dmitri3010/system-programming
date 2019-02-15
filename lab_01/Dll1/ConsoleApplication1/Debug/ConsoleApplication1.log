@@ -1,0 +1,3 @@
+﻿  pch.cpp
+  ConsoleApplication1.cpp
+LINK : fatal error LNK1104: cannot open file 'E:\лабы 6 сем\ОС\lab_01\Dll1\Debug\Dll1.lib'

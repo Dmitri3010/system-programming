@@ -1,0 +1,21 @@
+E:\лабы 6 сем\ОС\lab_01\Dll1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\лабы 6 сем\ОС\lab_01\Dll1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\лабы 6 сем\ОС\lab_01\Dll1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\лабы 6 сем\ОС\lab_01\Dll1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+E:\лабы 6 сем\ОС\lab_01\Dll1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\лабы 6 сем\ОС\lab_01\Dll1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\лабы 6 сем\ОС\lab_01\Dll1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Dmitri\Downloads\OS\lab_01\Dll1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Dmitri\Downloads\OS\lab_01\Dll1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Dmitri\Downloads\OS\lab_01\Dll1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Dmitri\Downloads\OS\lab_01\Dll1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Dmitri\Downloads\OS\lab_01\Dll1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Dmitri\Downloads\OS\lab_01\Dll1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Dmitri\Downloads\OS\lab_01\Dll1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\Projects\University\SystemProgramming\lab_01\Dll1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Projects\University\SystemProgramming\lab_01\Dll1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Projects\University\SystemProgramming\lab_01\Dll1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Projects\University\SystemProgramming\lab_01\Dll1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\Projects\University\SystemProgramming\lab_01\Dll1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Projects\University\SystemProgramming\lab_01\Dll1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Projects\University\SystemProgramming\lab_01\Dll1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

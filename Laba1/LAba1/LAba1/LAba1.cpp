@@ -21,6 +21,7 @@ class CA : public IX, public IY
 	virtual void __stdcall Fx() { std::cout << "Hi, from FX" << std::endl; };
 	virtual void __stdcall Fy() { std::cout << "Hi, from FY" << std::endl; };
 	virtual void __stdcall FF() { std::cout << "Hi, from FF" << std::endl; };
+	virtual void __stdcall GetPow(int x) { std::cout<<x << "^2="<< pow(x,2) << std::endl; };
 };
 
 HRESULT __stdcall CA::QueryInterface(const IID& iid, void ** ppv)
@@ -93,6 +94,10 @@ int main()
 		trace("IY gotcha successfully!");
 		pIY->Fy();
 		pIY->FF();
+		trace("enter x please");
+		int x;
+		std::cin >> x;		
+		pIY->GetPow(x);
 	}
 
 	std::cout << "Press any key" << std::endl;

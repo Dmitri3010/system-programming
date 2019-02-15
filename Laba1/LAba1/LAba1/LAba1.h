@@ -10,4 +10,5 @@ interface IY :IUnknown
 {
 	virtual void __stdcall Fy() = 0;
 	virtual void __stdcall FF() = 0;
+	virtual void __stdcall GetPow(int x) = 0;
 };
