@@ -18,9 +18,14 @@ namespace WindowsFormsApplication1
         public Form1()
         {
             InitializeComponent();
-            //k = axActiveXCPP21.TestMyMethod(4, 4, "Hi");
-           // axActiveXCPP21.EventHandlerTest +=
-            //  new AxActiveXCPP2Lib._DActiveXCPP2Events_EventHandlerTestEventHandler(axActiveXCPP21_EventHandlerTest);
+            k = axActiveXCPP22.TestMyMethod(4, 4, "Hi");
+            axActiveXCPP22.EventHandlerTest +=
+              new AxActiveXCPP2Lib._DActiveXCPP2Events_EventHandlerTestEventHandler(axActiveXCPP21_EventHandlerTest);
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
         }
         //private void axActiveXCPP21_EventHandlerTest(object sender, _DActiveXCPP2Events_EventHandlerTestEvent e)
         //{

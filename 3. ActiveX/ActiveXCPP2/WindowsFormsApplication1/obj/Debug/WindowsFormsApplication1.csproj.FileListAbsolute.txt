@@ -31,3 +31,18 @@ D:\pidarok\Системное программирование\Семестр\3.
 D:\pidarok\Системное программирование\Семестр\3. ActiveX\ActiveXCPP2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
 D:\pidarok\Системное программирование\Семестр\3. ActiveX\ActiveXCPP2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 D:\pidarok\Системное программирование\Семестр\3. ActiveX\ActiveXCPP2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Projects\University\SystemProgramming\3. ActiveX\ActiveXCPP2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Projects\University\SystemProgramming\3. ActiveX\ActiveXCPP2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Projects\University\SystemProgramming\3. ActiveX\ActiveXCPP2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Projects\University\SystemProgramming\3. ActiveX\ActiveXCPP2\WindowsFormsApplication1\bin\Debug\Interop.ActiveXCPP22Lib.dll
+D:\Projects\University\SystemProgramming\3. ActiveX\ActiveXCPP2\WindowsFormsApplication1\bin\Debug\AxInterop.ActiveXCPP22Lib.dll
+D:\Projects\University\SystemProgramming\3. ActiveX\ActiveXCPP2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+D:\Projects\University\SystemProgramming\3. ActiveX\ActiveXCPP2\WindowsFormsApplication1\obj\Debug\Interop.ActiveXCPP22Lib.dll
+D:\Projects\University\SystemProgramming\3. ActiveX\ActiveXCPP2\WindowsFormsApplication1\obj\Debug\AxInterop.ActiveXCPP22Lib.dll
+D:\Projects\University\SystemProgramming\3. ActiveX\ActiveXCPP2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+D:\Projects\University\SystemProgramming\3. ActiveX\ActiveXCPP2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Projects\University\SystemProgramming\3. ActiveX\ActiveXCPP2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Projects\University\SystemProgramming\3. ActiveX\ActiveXCPP2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+D:\Projects\University\SystemProgramming\3. ActiveX\ActiveXCPP2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+D:\Projects\University\SystemProgramming\3. ActiveX\ActiveXCPP2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Projects\University\SystemProgramming\3. ActiveX\ActiveXCPP2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

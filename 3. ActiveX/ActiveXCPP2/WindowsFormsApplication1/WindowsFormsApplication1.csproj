@@ -80,6 +80,15 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <COMReference Include="ActiveXCPP22Lib">
+      <Guid>{D537AC45-C518-43F5-8997-901C1F5765A2}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
     <COMReference Include="ActiveXCPP2Lib">
       <Guid>{E6FD4217-908D-403B-8C56-26A878CA1A22}</Guid>
       <VersionMajor>1</VersionMajor>
@@ -88,6 +97,14 @@
       <WrapperTool>tlbimp</WrapperTool>
       <Isolated>False</Isolated>
       <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="AxActiveXCPP22Lib">
+      <Guid>{D537AC45-C518-43F5-8997-901C1F5765A2}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
     </COMReference>
     <COMReference Include="AxActiveXCPP2Lib">
       <Guid>{E6FD4217-908D-403B-8C56-26A878CA1A22}</Guid>
