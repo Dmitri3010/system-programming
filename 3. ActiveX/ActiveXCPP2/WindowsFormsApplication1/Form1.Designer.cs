@@ -47,10 +47,10 @@
             // axActiveXCPP221
             // 
             this.axActiveXCPP221.Enabled = true;
-            this.axActiveXCPP221.Location = new System.Drawing.Point(306, 27);
+            this.axActiveXCPP221.Location = new System.Drawing.Point(100, 21);
             this.axActiveXCPP221.Name = "axActiveXCPP221";
             this.axActiveXCPP221.OcxState = ((System.Windows.Forms.AxHost.State)(resources.GetObject("axActiveXCPP221.OcxState")));
-            this.axActiveXCPP221.Size = new System.Drawing.Size(111, 80);
+            this.axActiveXCPP221.Size = new System.Drawing.Size(230, 119);
             this.axActiveXCPP221.TabIndex = 1;
             // 
             // Form1

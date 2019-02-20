@@ -7,31 +7,26 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-//using ActiveXCPP2Lib;            //не забудьте добавить строки подключения
-//using AxActiveXCPP2Lib;
+using ActiveXCPP22Lib;            //не забудьте добавить строки подключения
+using AxActiveXCPP22Lib;
 
 namespace WindowsFormsApplication1
 {
     public partial class Form1 : Form
     {
-        static int k = 10;
+       float k;
         public Form1()
         {
             InitializeComponent();
-            k = axActiveXCPP22.TestMyMethod(4, 4, "Hi");
-            axActiveXCPP22.EventHandlerTest +=
-              new AxActiveXCPP2Lib._DActiveXCPP2Events_EventHandlerTestEventHandler(axActiveXCPP21_EventHandlerTest);
+            AxActiveXCPP22 axActiveXCPP22 = new AxActiveXCPP22();
+            axActiveXCPP22.CreateControl();
+                k = axActiveXCPP22.TestMyMethod(4, 4, "Hi");
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            MessageBox.Show("Active returned:" + k);
         }
-        //private void axActiveXCPP21_EventHandlerTest(object sender, _DActiveXCPP2Events_EventHandlerTestEvent e)
-        //{
-        //    int age = e.age;
-        //    string name = e.name;
-        //    string surname = e.surname;
-        //}
+      
     }
 }
