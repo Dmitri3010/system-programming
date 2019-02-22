@@ -46,3 +46,7 @@ D:\Projects\University\SystemProgramming\3. ActiveX\ActiveXCPP2\WindowsFormsAppl
 D:\Projects\University\SystemProgramming\3. ActiveX\ActiveXCPP2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
 D:\Projects\University\SystemProgramming\3. ActiveX\ActiveXCPP2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 D:\Projects\University\SystemProgramming\3. ActiveX\ActiveXCPP2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Projects\University\SystemProgramming\3. ActiveX\ActiveXCPP2\WindowsFormsApplication1\obj\Debug\Interop.MFCActiveXControl1Lib.dll
+D:\Projects\University\SystemProgramming\3. ActiveX\ActiveXCPP2\WindowsFormsApplication1\obj\Debug\AxInterop.MFCActiveXControl1Lib.dll
+D:\Projects\University\SystemProgramming\3. ActiveX\ActiveXCPP2\WindowsFormsApplication1\bin\Debug\Interop.MFCActiveXControl1Lib.dll
+D:\Projects\University\SystemProgramming\3. ActiveX\ActiveXCPP2\WindowsFormsApplication1\bin\Debug\AxInterop.MFCActiveXControl1Lib.dll

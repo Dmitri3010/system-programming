@@ -30,8 +30,8 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.button1 = new System.Windows.Forms.Button();
-            this.axActiveXCPP221 = new AxActiveXCPP22Lib.AxActiveXCPP22();
-            ((System.ComponentModel.ISupportInitialize)(this.axActiveXCPP221)).BeginInit();
+            this.axMFCActiveXControl11 = new AxMFCActiveXControl1Lib.AxMFCActiveXControl1();
+            ((System.ComponentModel.ISupportInitialize)(this.axMFCActiveXControl11)).BeginInit();
             this.SuspendLayout();
             // 
             // button1
@@ -44,25 +44,25 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
-            // axActiveXCPP221
+            // axMFCActiveXControl11
             // 
-            this.axActiveXCPP221.Enabled = true;
-            this.axActiveXCPP221.Location = new System.Drawing.Point(100, 21);
-            this.axActiveXCPP221.Name = "axActiveXCPP221";
-            this.axActiveXCPP221.OcxState = ((System.Windows.Forms.AxHost.State)(resources.GetObject("axActiveXCPP221.OcxState")));
-            this.axActiveXCPP221.Size = new System.Drawing.Size(230, 119);
-            this.axActiveXCPP221.TabIndex = 1;
+            this.axMFCActiveXControl11.Enabled = true;
+            this.axMFCActiveXControl11.Location = new System.Drawing.Point(97, 35);
+            this.axMFCActiveXControl11.Name = "axMFCActiveXControl11";
+            this.axMFCActiveXControl11.OcxState = ((System.Windows.Forms.AxHost.State)(resources.GetObject("axMFCActiveXControl11.OcxState")));
+            this.axMFCActiveXControl11.Size = new System.Drawing.Size(230, 109);
+            this.axMFCActiveXControl11.TabIndex = 2;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(427, 295);
-            this.Controls.Add(this.axActiveXCPP221);
+            this.Controls.Add(this.axMFCActiveXControl11);
             this.Controls.Add(this.button1);
             this.Name = "Form1";
             this.Text = "Form1";
-            ((System.ComponentModel.ISupportInitialize)(this.axActiveXCPP221)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.axMFCActiveXControl11)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -70,7 +70,7 @@
         #endregion
 
         private System.Windows.Forms.Button button1;
-        private AxActiveXCPP22Lib.AxActiveXCPP22 axActiveXCPP221;
+        private AxMFCActiveXControl1Lib.AxMFCActiveXControl1 axMFCActiveXControl11;
     }
 }
 
