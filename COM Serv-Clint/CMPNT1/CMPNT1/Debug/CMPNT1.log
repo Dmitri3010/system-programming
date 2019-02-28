@@ -1,0 +1,4 @@
+﻿  CMPNT1.cpp
+.\CMPNT1.def(4): warning LNK4017: DESCRIPTION statement not supported for the target platform; ignored
+     Creating library D:\Projects\University\SystemProgramming\COM Serv-Clint\CMPNT1\Debug\CMPNT1.lib and object D:\Projects\University\SystemProgramming\COM Serv-Clint\CMPNT1\Debug\CMPNT1.exp
+  CMPNT1.vcxproj -> D:\Projects\University\SystemProgramming\COM Serv-Clint\CMPNT1\Debug\CMPNT1.dll

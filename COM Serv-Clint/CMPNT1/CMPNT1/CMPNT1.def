@@ -1,0 +1,7 @@
+; CMPNT1.def : Declares the module parameters for the DLL.
+
+LIBRARY   Cmpnt1.dll 
+DESCRIPTION  "Component description" 
+ 
+EXPORTS 
+     CreateInstance @1 PRIVATE
