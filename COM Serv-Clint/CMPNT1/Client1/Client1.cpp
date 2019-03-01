@@ -81,6 +81,7 @@ int main()
 		trace("IX получен успешно");
 		pIX->Fx();          // Использовать интерфейс IX 
 		pIX->FF();
+		pIX->Time();
 		pIX->Release();
 	}
 	else
